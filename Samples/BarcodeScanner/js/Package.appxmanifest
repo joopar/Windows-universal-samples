@@ -15,7 +15,7 @@
   <Properties>
     <DisplayName>BarcodeScanner JS Sample</DisplayName>
     <PublisherDisplayName>Microsoft Corporation</PublisherDisplayName>
-    <Logo>images\storelogo-sdk.png</Logo>
+    
   </Properties>
 
   <Dependencies>
