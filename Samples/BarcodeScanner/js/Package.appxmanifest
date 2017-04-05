@@ -12,12 +12,7 @@
 
   <mp:PhoneIdentity PhoneProductId="a5aa271e-7fe0-4550-a4e3-d5884126afa5" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
 
-  <Properties>
-    <DisplayName>BarcodeScanner JS Sample</DisplayName>
-    <PublisherDisplayName>Microsoft Corporation</PublisherDisplayName>
-    
-  </Properties>
-
+  
   <Dependencies>
     <TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.10240.0" MaxVersionTested="10.0.14393.0" />
   </Dependencies>
